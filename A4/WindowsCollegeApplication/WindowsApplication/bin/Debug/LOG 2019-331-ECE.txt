@@ -1,0 +1,3 @@
+**ERROR** 2019-331-ECE.xml processHeader 
+**ERROR** 2019-331-ECE.xml Value of Date attribute is not today
+

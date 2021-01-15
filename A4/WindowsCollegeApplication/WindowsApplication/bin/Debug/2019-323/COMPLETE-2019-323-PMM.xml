@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!-- Registration Grading file -->
+
+<student_update date="2019-11-19" program="PMM" checksum="1066666656">
+	<transaction>
+		<program>PMM</program>
+		<student_no>88888888</student_no>
+		<course_no>*</course_no>
+		<registration_no>2003</registration_no>
+		<type>2</type>
+		<grade>999</grade>
+		<notes>**ERROR** Grade for Type 2 must be between 0 - 100</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>88888888</student_no>
+		<course_no>*</course_no>
+		<registration_no>2003</registration_no>
+		<type>2</type>
+		<grade>57</grade>
+		<notes>Good grade update</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>88888888</student_no>
+		<course_no>*</course_no>
+		<registration_no>2004</registration_no>
+		<type>2</type>
+		<grade>60</grade>
+		<notes>Good grade update</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>88888888</student_no>
+		<course_no>*</course_no>
+		<registration_no>2005</registration_no>
+		<type>2</type>
+		<notes>***ERROR*** Incorrect number of Child Nodes</notes>
+	</transaction>
+	<transaction>
+		<program>XX</program>
+		<student_no>88888888</student_no>
+		<course_no>*</course_no>
+		<registration_no>2005</registration_no>
+		<type>2</type>
+		<grade>90</grade>
+		<notes>**ERROR*** Invalid Program Acronym</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>88888888</student_no>
+		<course_no>G-199996</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good registration</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>88888888</student_no>
+		<course_no>G-199995</course_no>
+		<registration_no>1000</registration_no>
+		<type>2</type>
+		<grade>22</grade>
+		<notes>***ERROR*** Course for Type 2 should be a *</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>88888888</student_no>
+		<course_no>M-19999</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>@</grade>
+		<notes>***ERROR*** Invalid Grade Value</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>88888888</student_no>
+		<course_no>A-1999</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>100</grade>
+		<notes>***ERROR***  Grade for Type 1 should be a *</notes>
+	</transaction>	
+	<transaction>
+		<program>PMM</program>
+		<student_no>88888888</student_no>
+		<course_no>G-199993</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good registration</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>88888888</student_no>
+		<course_no>G-199995</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good registration</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>88888888</student_no>
+		<course_no>D-12345</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>***ERROR*** Course does not exist</notes>
+	</transaction>
+</student_update>

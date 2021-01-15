@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.3.0\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E9A6F7C7-FB71-4907-9671-AD6FD3E2C473}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsApplication</RootNamespace>
+    <AssemblyName>WindowsApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BITCollege_GiangHuynh">
+      <HintPath>..\BITCollege_GiangHuynh\bin\BITCollege_GiangHuynh.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.3.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.3.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="EWSoftware.MaskedLabelControl">
+      <HintPath>..\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Utility, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Utility\bin\Debug\Utility.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Batch.cs" />
+    <Compile Include="Connected Services\SRCollegeRegistration\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="ConstructorData.cs" />
+    <Compile Include="frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAbout.Designer.cs">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBatch.Designer.cs">
+      <DependentUpon>frmBatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrading.Designer.cs">
+      <DependentUpon>frmGrading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHistory.Designer.cs">
+      <DependentUpon>frmHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMDI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMDI.Designer.cs">
+      <DependentUpon>frmMDI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudent.Designer.cs">
+      <DependentUpon>frmStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAbout.resx">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBatch.resx">
+      <DependentUpon>frmBatch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrading.resx">
+      <DependentUpon>frmGrading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHistory.resx">
+      <DependentUpon>frmHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMDI.resx">
+      <DependentUpon>frmMDI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudent.resx">
+      <DependentUpon>frmStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Connected Services\SRCollegeRegistration\CollegeRegistration.wsdl" />
+    <None Include="Connected Services\SRCollegeRegistration\CollegeRegistration.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\SRCollegeRegistration\CollegeRegistration1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.AuditCourse.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.BITCollege_GiangHuynhContext.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.Course.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.GPAState.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.GradedCourse.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.HonoursState.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.MasteryCourse.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.NextAuditCourse.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.NextGradedCourse.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.NextMasteryCourse.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.NextRegistrationNumber.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.NextStudentNumber.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.ProbationState.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.Program.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.Registration.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.RegularState.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.StoredProcedures.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.Student.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.StudentCard.datasource" />
+    <None Include="Properties\DataSources\BITCollege_GiangHuynh.Models.SuspendedState.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\SRCollegeRegistration\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\SRCollegeRegistration\CollegeRegistration.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\SRCollegeRegistration\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\SRCollegeRegistration\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\SRCollegeRegistration\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.3.0\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.3.0\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.3.0\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.targets')" />
+</Project>

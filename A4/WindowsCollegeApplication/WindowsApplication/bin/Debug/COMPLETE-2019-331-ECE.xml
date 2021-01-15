@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!-- Registration Grading file -->
+
+<student_update date="2015-06-18" program="ECE" checksum="222222240">
+	<transaction>
+		<program>ECE</program>
+		<student_no>11111120</student_no>
+		<course_no>*</course_no>
+		<registration_no>2007</registration_no>
+		<type>2</type>
+		<grade>999</grade>
+		<notes>***HEADER FILE ERROR - BAD HEADER DATE***</notes>
+	</transaction>
+	<transaction>
+		<program>ECE</program>
+		<student_no>11111120</student_no>
+		<course_no>*</course_no>
+		<registration_no>2007</registration_no>
+		<type>2</type>
+		<notes>***HEADER FILE ERROR - BAD HEADER DATE***</notes>
+	</transaction>
+</student_update>

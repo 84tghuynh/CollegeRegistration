@@ -1,0 +1,95 @@
+C:\Users\lcutrone\Desktop\COMP2005 Assignment Starter Converted to 2008\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\COMP2005 Assignment Starter Converted to 2008\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\COMP2005 Assignment Starter Converted to 2008\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lcutrone\Desktop\COMP2005 Assignment Starter Converted to 2008\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\COMP2005 Assignment Starter Converted to 2008\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lcutrone\Desktop\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\COMP2005 to transfer\notes & assignments\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\COMP2005 to transfer\notes & assignments\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\COMP2005 to transfer\notes & assignments\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lcutrone\Desktop\COMP2005 to transfer\notes & assignments\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\COMP2005 to transfer\notes & assignments\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\COMP2005 from Repository\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\COMP2005 from Repository\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\COMP2005 from Repository\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lcutrone\Desktop\COMP2005 from Repository\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\COMP2005 from Repository\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\Assignment Solution\Assignment Solution\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\Assignment Solution\Assignment Solution\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\Assignment Solution\Assignment Solution\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lcutrone\Desktop\Assignment Solution\Assignment Solution\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\Assignment Solution\Assignment Solution\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\NET Adv. Assignment Solution\Assignment Solution\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\NET Adv. Assignment Solution\Assignment Solution\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\NET Adv. Assignment Solution\Assignment Solution\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lcutrone\Desktop\NET Adv. Assignment Solution\Assignment Solution\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\NET Adv. Assignment Solution\Assignment Solution\Assignment Solution\COMP2005 Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\NET Adv. Assignment Solution\Assignment Solution Fall 2011\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\NET Adv. Assignment Solution\Assignment Solution Fall 2011\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\NET Adv. Assignment Solution\Assignment Solution Fall 2011\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lcutrone\Desktop\NET Adv. Assignment Solution\Assignment Solution Fall 2011\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\NET Adv. Assignment Solution\Assignment Solution Fall 2011\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\Assignment Solution Fall 2011\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\Assignment Solution Fall 2011\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\Assignment Solution Fall 2011\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lcutrone\Desktop\Assignment Solution Fall 2011\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\Assignment Solution Fall 2011\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\Assignment Solution Fall 2012\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\Assignment Solution Fall 2012\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\Assignment Solution Fall 2012\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lcutrone\Desktop\Assignment Solution Fall 2012\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\Assignment Solution Fall 2012\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\ADEV-2002 June 2013\ADEV2002\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\ADEV-2002 June 2013\ADEV2002\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\ADEV-2002 June 2013\ADEV2002\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lcutrone\Desktop\ADEV-2002 June 2013\ADEV2002\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\ADEV-2002 June 2013\ADEV2002\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\ADEV-2002 June 2013\Solution Fall 2013\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\ADEV-2002 June 2013\Solution Fall 2013\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\ADEV-2002 June 2013\Solution Fall 2013\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lcutrone\Desktop\ADEV-2002 June 2013\Solution Fall 2013\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\ADEV-2002 June 2013\Solution Fall 2013\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\FROM Repository ADEV-2002 - As of August 13, 2013\Assignment Solution Fall 2013\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\FROM Repository ADEV-2002 - As of August 13, 2013\Assignment Solution Fall 2013\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\FROM Repository ADEV-2002 - As of August 13, 2013\Assignment Solution Fall 2013\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lcutrone\Desktop\FROM Repository ADEV-2002 - As of August 13, 2013\Assignment Solution Fall 2013\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\FROM Repository ADEV-2002 - As of August 13, 2013\Assignment Solution Fall 2013\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\FROM Repository ADEV-2002 - As of December 18 2013\Assignment Solution Winter 2014\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\FROM Repository ADEV-2002 - As of December 18 2013\Assignment Solution Winter 2014\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\FROM Repository ADEV-2002 - As of December 18 2013\Assignment Solution Winter 2014\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lcutrone\Desktop\FROM Repository ADEV-2002 - As of December 18 2013\Assignment Solution Winter 2014\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lcutrone\Desktop\FROM Repository ADEV-2002 - As of December 18 2013\Assignment Solution Winter 2014\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lcutrone\Desktop\FROM Repository ADEV-2002 - As of December 18 2013\Assignment Solution Winter 2014\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.xml
+C:\Users\lcutrone\Desktop\Assignment Solution\MaskedLabel\DotNet20\CS\MaskedLabelTest\MaskedLabel\obj\Debug\MaskedLabel.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\BankOfBIT\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\BankOfBIT\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\BankOfBIT\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\BankOfBIT\MaskedLabel\obj\Debug\MaskedLabel.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\BankOfBIT\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\BankOfBIT\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\Administrator\Desktop\Programming 3\Solutions\Assignments\BankOfBIT\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\Administrator\Desktop\Programming 3\Solutions\Assignments\BankOfBIT\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\Administrator\Desktop\Programming 3\Solutions\Assignments\BankOfBIT\MaskedLabel\obj\Debug\MaskedLabel.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Programming 3\Solutions\Assignments\BankOfBIT\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\Administrator\Desktop\Programming 3\Solutions\Assignments\BankOfBIT\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+G:\AcademicRRC\Term3\4.ADEV-3000\Assignment\A3\working\WindowsCollegeApplication\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.xml
+G:\AcademicRRC\Term3\4.ADEV-3000\Assignment\A3\working\WindowsCollegeApplication\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+G:\AcademicRRC\Term3\4.ADEV-3000\Assignment\A3\working\WindowsCollegeApplication\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+G:\AcademicRRC\Term3\4.ADEV-3000\Assignment\A3\working\WindowsCollegeApplication\MaskedLabel\obj\Debug\MaskedLabel.csproj.CoreCompileInputs.cache
+G:\AcademicRRC\Term3\4.ADEV-3000\Assignment\A3\working\WindowsCollegeApplication\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+G:\AcademicRRC\Term3\4.ADEV-3000\Assignment\A3\working\WindowsCollegeApplication\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+G:\AcademicRRC\Term3\4.ADEV-3000\Assignment\A4\working\WindowsCollegeApplication\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.xml
+G:\AcademicRRC\Term3\4.ADEV-3000\Assignment\A4\working\WindowsCollegeApplication\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+G:\AcademicRRC\Term3\4.ADEV-3000\Assignment\A4\working\WindowsCollegeApplication\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+G:\AcademicRRC\Term3\4.ADEV-3000\Assignment\A4\working\WindowsCollegeApplication\MaskedLabel\obj\Debug\MaskedLabel.csprojAssemblyReference.cache
+G:\AcademicRRC\Term3\4.ADEV-3000\Assignment\A4\working\WindowsCollegeApplication\MaskedLabel\obj\Debug\MaskedLabel.csproj.CoreCompileInputs.cache
+G:\AcademicRRC\Term3\4.ADEV-3000\Assignment\A4\working\WindowsCollegeApplication\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+G:\AcademicRRC\Term3\4.ADEV-3000\Assignment\A4\working\WindowsCollegeApplication\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb

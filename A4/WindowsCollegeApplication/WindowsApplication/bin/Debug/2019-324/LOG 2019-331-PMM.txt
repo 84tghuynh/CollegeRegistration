@@ -1,0 +1,59 @@
+-------ERROR-------
+File: 2019-331-PMM.xml
+Program: <program>PMM</program>
+Student Number: <student_no>11111111</student_no>
+Course Number: <course_no>M-16999</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>@</grade>
+Notes: <notes>***ERROR*** Invalid Grade Value</notes>
+Nodes: 7
+**ERROR** The grade nodes within each transaction node must be numeric or have the value of ‘*’.
+-------------------
+
+-------ERROR-------
+File: 2019-331-PMM.xml
+Program: <program>PMM</program>
+Student Number: <student_no>11111111</student_no>
+Course Number: <course_no>G-169996</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>100</grade>
+Notes: <notes>***ERROR***  Grade for Type 1 should be a *</notes>
+Nodes: 7
+**ERROR** The grade node for course registrations (type node = 1) is  a value of *, for course grading (type node = 2) is a value between 0 and 100
+-------------------
+
+-------ERROR-------
+File: 2019-331-PMM.xml
+Program: <program>PMM</program>
+Student Number: <student_no>11111112</student_no>
+Course Number: <course_no>D-12345</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>*</grade>
+Notes: <notes>***ERROR*** Course does not exist</notes>
+Nodes: 7
+**ERROR** The course_no node within each transaction node must be a “*” for grading(type 2) or it must exist in the database.
+-------------------
+
+-------ERROR-------
+File: 2019-331-PMM.xml
+Program: <program>PMM</program>
+Student Number: <student_no>11111111</student_no>
+Course Number: <course_no>G-169997</course_no>
+Registration Number: <registration_no>2001</registration_no>
+Type: <type>2</type>
+Grade: <grade>22</grade>
+Notes: <notes>***ERROR*** Course for Type 2 should be a *</notes>
+Nodes: 7
+**ERROR** The course_no node within each transaction node must be a “*” for grading(type 2) or it must exist in the database.
+-------------------
+
+grade 98 applied to student 11111111 for registration 3003
+grade 50 applied to student 11111112 for registration 3008
+Successful Registration student 11111111 course M-16999
+Successful Registration student 11111111 course G-169996
+Successful Registration student 11111111 course G-169997
+Successful Registration student 11111112 course M-16999
+Successful Registration student 11111112 course G-169996

@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!-- Registration Grading file -->
+
+<student_update date="2019-11-27" program="PMM" checksum="122222225">      
+	<transaction>
+		<program>PMM</program>
+		<student_no>11111111</student_no>
+		<course_no>M-16999</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>@</grade>
+		<notes>***ERROR*** Invalid Grade Value</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>11111111</student_no>
+		<course_no>*</course_no>
+		<registration_no>3003</registration_no>
+		<type>2</type>
+		<grade>98</grade>
+		<notes>Good grade update</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>11111112</student_no>
+		<course_no>*</course_no>
+		<registration_no>3008</registration_no>
+		<type>2</type>
+		<grade>50</grade>
+		<notes>Good grade update</notes>
+	</transaction>	
+	<transaction>
+		<program>PMM</program>
+		<student_no>11111111</student_no>
+		<course_no>M-16999</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>***ERROR Maximum Mastery Course Attempts</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>11111112</student_no>
+		<course_no>D-12345</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>***ERROR*** Course does not exist</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>11111111</student_no>
+		<course_no>G-169996</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good registration</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>11111111</student_no>
+		<course_no>G-169997</course_no>
+		<registration_no>2001</registration_no>
+		<type>2</type>
+		<grade>22</grade>
+		<notes>***ERROR*** Course for Type 2 should be a *</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>11111111</student_no>
+		<course_no>G-169996</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>100</grade>
+		<notes>***ERROR***  Grade for Type 1 should be a *</notes>
+	</transaction>	
+	<transaction>
+		<program>PMM</program>
+		<student_no>11111111</student_no>
+		<course_no>G-169997</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good Registration</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>11111112</student_no>
+		<course_no>M-16999</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>***ERROR*** Maximum attempts for mastery course</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>11111112</student_no>
+		<course_no>G-169996</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good Registration</notes>
+	</transaction>
+</student_update>

@@ -1,0 +1,42 @@
+﻿@model BITCollege_GiangHuynh.Models.HonoursState
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>HonoursState</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.LowerLimit)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LowerLimit)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UpperLimit)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UpperLimit)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TuitionRateFactor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TuitionRateFactor)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.GPAStateId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EWSoftware.MaskedLabelControl</name>
+    </assembly>
+    <members>
+        <member name="T:EWSoftware.MaskedLabelControl.MaskedLabel">
+            <summary>
+            This is a derived label control that can format its text using the same
+            mask characters as the <see cref="T:System.Windows.Forms.MaskedTextBox" /> control.
+            </summary>
+        </member>
+        <member name="M:EWSoftware.MaskedLabelControl.MaskedLabel.#ctor">
+            <summary>
+            Constructor
+            </summary>
+            <remarks>There is no mask applied by default</remarks>
+        </member>
+        <member name="P:EWSoftware.MaskedLabelControl.MaskedLabel.MaskedTextProvider">
+            <summary>
+            This returns a clone of the masked text provider currently being
+            used by the masked label control.
+            </summary>
+        </member>
+        <member name="P:EWSoftware.MaskedLabelControl.MaskedLabel.ResultHint">
+            <summary>
+            This returns the result hint for the last assignment to the
+            <see cref="P:EWSoftware.MaskedLabelControl.MaskedLabel.Text" /> property.
+            </summary>
+            <remarks>If the assigned text could not be properly formatted,
+            this will contain a hint as to why not.  Positive values
+            indicate success.  Negative values indicate failure.</remarks>
+        </member>
+        <member name="P:EWSoftware.MaskedLabelControl.MaskedLabel.HintPosition">
+            <summary>
+            This returns the result hint position for the last assignment to
+            the <see cref="P:EWSoftware.MaskedLabelControl.MaskedLabel.Text" /> property.
+            </summary>
+            <remarks>If the assigned text could not be properly formatted,
+            this will contain the position of the first failure.</remarks>
+        </member>
+        <member name="P:EWSoftware.MaskedLabelControl.MaskedLabel.UnmaskedText">
+            <summary>
+            This read-only property returns the unmasked copy of the text
+            </summary>
+        </member>
+        <member name="P:EWSoftware.MaskedLabelControl.MaskedLabel.Text">
+            <summary>
+            This is used to set or get the label text.
+            </summary>
+            <remarks>When set, the text is formatted according to the current
+            masked text provider settings.  If the mask is empty, the text is
+            set as-is.  When retrieved, the text is returned in its formatted
+            state.  Use <see cref="P:EWSoftware.MaskedLabelControl.MaskedLabel.UnmaskedText" /> to get the text without
+            the mask applied.</remarks>
+        </member>
+        <member name="P:EWSoftware.MaskedLabelControl.MaskedLabel.Culture">
+            <summary>
+            This is used to set or get the culture information associated with
+            the masked label.
+            </summary>
+            <exception cref="T:System.ArgumentNullException">This is thrown if the
+            culture value is null</exception>
+        </member>
+        <member name="P:EWSoftware.MaskedLabelControl.MaskedLabel.Mask">
+            <summary>
+            This is used to set or get the mask for the label text
+            </summary>
+        </member>
+        <member name="P:EWSoftware.MaskedLabelControl.MaskedLabel.PromptChar">
+            <summary>
+            This is used to set or get the prompt character for display
+            in the label text.
+            </summary>
+            <value>The default is an underscore (_).</value>
+        </member>
+        <member name="P:EWSoftware.MaskedLabelControl.MaskedLabel.IncludePrompt">
+            <summary>
+            This is used to set or get whether or not prompt characters are
+            also displayed in the label text.
+            </summary>
+            <value>By default, prompt characters are not shown.</value>
+        </member>
+        <member name="M:EWSoftware.MaskedLabelControl.MaskedLabel.Format(System.String,System.String)">
+            <summary>
+            Format the specified text using the specified mask
+            </summary>
+            <param name="mask">The mask to use</param>
+            <param name="text">The text to format</param>
+            <returns>The formatted text string</returns>
+            <overloads>There are four overloads for this method.</overloads>
+        </member>
+        <member name="M:EWSoftware.MaskedLabelControl.MaskedLabel.Format(System.String,System.String,System.Char)">
+            <summary>
+            Format the specified text using the specified mask and prompt
+            character.
+            </summary>
+            <param name="mask">The mask to use.</param>
+            <param name="text">The text to format.</param>
+            <param name="promptChar">The prompt character to use for missing
+            characters.  If a null character ('\x0') is specified, prompt
+            characters are omitted.</param>
+            <returns>The formatted text string.</returns>
+        </member>
+        <member name="M:EWSoftware.MaskedLabelControl.MaskedLabel.Format(System.String,System.String,System.Char,System.Globalization.CultureInfo)">
+            <summary>
+            Format the specified text using the specified mask, prompt
+            character, and culture information.
+            </summary>
+            <param name="mask">The mask to use.</param>
+            <param name="text">The text to format.</param>
+            <param name="promptChar">The prompt character to use for missing
+            characters.  If a null character ('\x0') is specified, prompt
+            characters are omitted.</param>
+            <param name="culture">The culture information to use.  If null,
+            the current culture is used.</param>
+            <returns>The formatted text string.</returns>
+        </member>
+        <member name="M:EWSoftware.MaskedLabelControl.MaskedLabel.Format(System.String,System.String,System.Char,System.Globalization.CultureInfo,System.ComponentModel.MaskedTextResultHint@,System.Int32@)">
+            <summary>
+            Format the specified text using the specified mask, prompt
+            character, and culture information and return the result
+            values.
+            </summary>
+            <param name="mask">The mask to use.</param>
+            <param name="text">The text to format.</param>
+            <param name="promptChar">The prompt character to use for missing
+            characters.  If a null character ('\x0') is specified, prompt
+            characters are omitted.</param>
+            <param name="culture">The culture information to use.  If null,
+            the current culture is used.</param>
+            <param name="hint">The result of formatting the text.</param>
+            <param name="hintPosition">The position related to the result
+            hint.</param>
+            <returns>The formatted text string.</returns>
+        </member>
+    </members>
+</doc>

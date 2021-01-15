@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!-- Registration Grading file -->
+
+<student_update date="2019-11-20" program="PBP" checksum="134443">
+	<transaction>
+		<program>PBP</program>
+		<student_no>88888885</student_no>
+		<course_no>*</course_no>
+		<registration_no>214</registration_no>
+		<type>2</type>
+		<grade>90.4</grade>
+		<notes>***ERROR: INVALID CHECKSUM***</notes>
+	</transaction>
+	<transaction>
+		<program>PBP</program>
+		<student_no>88888885</student_no>
+		<course_no>*</course_no>
+		<registration_no>216</registration_no>
+		<type>2</type>
+		<grade>7.1</grade>
+		<notes>***ERROR BAD CHECKSUM***</notes>
+	</transaction>
+	<transaction>
+		<program>PBP</program>
+		<student_no>88888885</student_no>
+		<course_no>*</course_no>
+		<registration_no>332</registration_no>
+		<type>2</type>
+		<grade>93.1</grade>
+		<notes>***ERROR BAD CHECKSUM***</notes>
+	</transaction>
+	<transaction>
+		<program>PBP</program>
+		<student_no>88888885</student_no>
+		<course_no>G-399996</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>***ERROR BAD CHECKSUM***</notes>
+	</transaction>
+</student_update>

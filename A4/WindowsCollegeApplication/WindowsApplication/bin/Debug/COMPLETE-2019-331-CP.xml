@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!-- Registration Grading file -->
+
+<student_update date="2019-11-27" program="DD" checksum="222222242">
+	<transaction>
+		<program>ECE</program>
+		<student_no>11111121</student_no>
+		<course_no>*</course_no>
+		<registration_no>2007</registration_no>
+		<type>2</type>
+		<grade>999</grade>
+		<notes>***HEADER FILE ERROR - BAD PROGRAM ACRONYM***</notes>
+	</transaction>
+	<transaction>
+		<program>ECE</program>
+		<student_no>11111121</student_no>
+		<course_no>*</course_no>
+		<registration_no>2007</registration_no>
+		<type>2</type>
+		<notes>***HEADER FILE ERROR - BAD PROGRAM ACRONYM***</notes>
+	</transaction>
+</student_update>

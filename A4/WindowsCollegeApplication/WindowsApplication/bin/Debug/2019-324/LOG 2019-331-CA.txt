@@ -1,0 +1,72 @@
+-------ERROR-------
+File: 2019-331-CA.xml
+Program: <program>CA</program>
+Student Number: <student_no>11111117</student_no>
+Course Number: <course_no>G-169997</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: 
+Notes: <notes>***ERROR*** Incorrect number of nodes</notes>
+Nodes: 6
+**ERROR** Each transaction must have 7 child nodes
+-------------------
+
+-------ERROR-------
+File: 2019-331-CA.xml
+Program: <program>CA</program>
+Student Number: <student_no>11111117</student_no>
+Course Number: <course_no>G-169997</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>@</grade>
+Notes: <notes>***ERROR*** Invalid Grade Value</notes>
+Nodes: 7
+**ERROR** The grade nodes within each transaction node must be numeric or have the value of ‘*’.
+-------------------
+
+-------ERROR-------
+File: 2019-331-CA.xml
+Program: <program>CA</program>
+Student Number: <student_no>11111115</student_no>
+Course Number: <course_no>A-4698</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>100</grade>
+Notes: <notes>***ERROR***  Grade for Type 1 should be a *</notes>
+Nodes: 7
+**ERROR** The grade node for course registrations (type node = 1) is  a value of *, for course grading (type node = 2) is a value between 0 and 100
+-------------------
+
+-------ERROR-------
+File: 2019-331-CA.xml
+Program: <program>CA</program>
+Student Number: <student_no>11111115</student_no>
+Course Number: <course_no>D-12345</course_no>
+Registration Number: <registration_no>*</registration_no>
+Type: <type>1</type>
+Grade: <grade>*</grade>
+Notes: <notes>***ERROR*** Course does not exist</notes>
+Nodes: 7
+**ERROR** The course_no node within each transaction node must be a “*” for grading(type 2) or it must exist in the database.
+-------------------
+
+-------ERROR-------
+File: 2019-331-CA.xml
+Program: <program>CA</program>
+Student Number: <student_no>11111119</student_no>
+Course Number: <course_no>G-469997</course_no>
+Registration Number: <registration_no>2001</registration_no>
+Type: <type>2</type>
+Grade: <grade>22</grade>
+Notes: <notes>***ERROR*** Course for Type 2 should be a *</notes>
+Nodes: 7
+**ERROR** The course_no node within each transaction node must be a “*” for grading(type 2) or it must exist in the database.
+-------------------
+
+grade 51 applied to student 11111115 for registration 3019
+grade 35.4 applied to student 11111115 for registration 3020
+ERROR: Student cannot register for a course in which there is already an ungraded registration.
+Successful Registration student 11111115 course M-46998
+Successful Registration student 11111115 course G-469998
+Successful Registration student 11111115 course G-469994
+Successful Registration student 11111115 course G-469993

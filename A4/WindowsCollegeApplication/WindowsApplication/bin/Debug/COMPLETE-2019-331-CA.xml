@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!-- Registration Grading file -->
+
+<student_update date="2019-11-27" program="CA" checksum="133333388">
+	<transaction>
+		<program>CA</program>
+		<student_no>11111115</student_no>
+		<course_no>*</course_no>
+		<registration_no>3019</registration_no>
+		<type>2</type>
+		<grade>51</grade>
+		<notes>Good grade update</notes>
+	</transaction>
+	<transaction>
+		<program>CA</program>
+		<student_no>11111117</student_no>
+		<course_no>G-169997</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>@</grade>
+		<notes>***ERROR*** Invalid Grade Value</notes>
+	</transaction>
+	<transaction>
+		<program>CA</program>
+		<student_no>11111115</student_no>
+		<course_no>*</course_no>
+		<registration_no>3020</registration_no>
+		<type>2</type>
+		<grade>35.4</grade>
+		<notes>Good grade update</notes>
+	</transaction>	
+	<transaction>
+		<program>CA</program>
+		<student_no>11111115</student_no>
+		<course_no>G-469996</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>***ERROR*** Cannot register for a course with an open registration</notes>
+	</transaction>
+	<transaction>
+		<program>CA</program>
+		<student_no>11111115</student_no>
+		<course_no>M-46998</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good registration</notes>
+	</transaction>
+	<transaction>
+		<program>CA</program>
+		<student_no>11111115</student_no>
+		<course_no>D-12345</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>***ERROR*** Course does not exist</notes>
+	</transaction>
+	<transaction>
+		<program>CA</program>
+		<student_no>11111115</student_no>
+		<course_no>G-469998</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good registration</notes>
+	</transaction>
+	<transaction>
+		<program>CA</program>
+		<student_no>11111119</student_no>
+		<course_no>G-469997</course_no>
+		<registration_no>2001</registration_no>
+		<type>2</type>
+		<grade>22</grade>
+		<notes>***ERROR*** Course for Type 2 should be a *</notes>
+	</transaction>
+	<transaction>
+		<program>CA</program>
+		<student_no>11111115</student_no>
+		<course_no>A-4698</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>100</grade>
+		<notes>***ERROR***  Grade for Type 1 should be a *</notes>
+	</transaction>	
+	<transaction>
+		<program>CA</program>
+		<student_no>11111115</student_no>
+		<course_no>G-469994</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good Registration</notes>
+	</transaction>
+	<transaction>
+		<program>CA</program>
+		<student_no>11111115</student_no>
+		<course_no>G-469993</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good Registration</notes>
+	</transaction>
+	<transaction>
+		<program>CA</program>
+		<student_no>11111117</student_no>
+		<course_no>G-169997</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<notes>***ERROR*** Incorrect number of nodes</notes>
+	</transaction>
+</student_update>

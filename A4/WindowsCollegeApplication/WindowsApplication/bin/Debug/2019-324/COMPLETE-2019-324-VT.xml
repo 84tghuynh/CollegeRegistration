@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!-- Registration Grading file -->
+
+<student_update date="2019-11-20" program="VT" checksum="1599999984">
+	<transaction>
+		<program>VT</program>
+		<student_no>88888889</student_no>
+		<course_no>*</course_no>
+		<registration_no>2007</registration_no>
+		<type>2</type>
+		<grade>999</grade>
+		<notes>**ERROR** Grade for Type 2 must be between 0 - 100</notes>
+	</transaction>
+	<transaction>
+		<program>VT</program>
+		<student_no>88888889</student_no>
+		<course_no>*</course_no>
+		<registration_no>2007</registration_no>
+		<type>2</type>
+		<grade>50</grade>
+		<notes>Good grade update</notes>
+	</transaction>
+	<transaction>
+		<program>VT</program>
+		<student_no>88888886</student_no>
+		<course_no>*</course_no>
+		<registration_no>2010</registration_no>
+		<type>2</type>
+		<grade>50</grade>
+		<notes>Good grade update</notes>
+	</transaction>	
+	<transaction>
+		<program>VT</program>
+		<student_no>88888886</student_no>
+		<course_no>*</course_no>
+		<registration_no>2011</registration_no>
+		<type>2</type>
+		<grade>60</grade>
+		<notes>Good grade update</notes>
+	</transaction>	
+	<transaction>
+		<program>VT</program>
+		<student_no>88888886</student_no>
+		<course_no>*</course_no>
+		<registration_no>2012</registration_no>
+		<type>2</type>
+		<grade>50</grade>
+		<notes>Good grade update</notes>
+	</transaction>
+	<transaction>
+		<program>VT</program>
+		<student_no>88888889</student_no>
+		<course_no>*</course_no>
+		<registration_no>216</registration_no>
+		<type>2</type>
+		<notes>***ERROR*** Incorrect number of Child Nodes</notes>
+	</transaction>
+	<transaction>
+		<program>VV</program>
+		<student_no>88888889</student_no>
+		<course_no>*</course_no>
+		<registration_no>222</registration_no>
+		<type>2</type>
+		<grade>90</grade>
+		<notes>**ERROR*** Invalid Program Acronym</notes>
+	</transaction>
+	<transaction>
+		<program>VT</program>
+		<student_no>88888889</student_no>
+		<course_no>G-299996</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good registration</notes>
+	</transaction>
+	<transaction>
+		<program>VT</program>
+		<student_no>88888889</student_no>
+		<course_no>G-100006</course_no>
+		<registration_no>1000</registration_no>
+		<type>2</type>
+		<grade>22</grade>
+		<notes>***ERROR*** Course for Type 2 should be a *</notes>
+	</transaction>
+	<transaction>
+		<program>VT</program>
+		<student_no>88888889</student_no>
+		<course_no>M-50032</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>@</grade>
+		<notes>***ERROR*** Invalid Grade Value</notes>
+	</transaction>
+	<transaction>
+		<program>VT</program>
+		<student_no>88888889</student_no>
+		<course_no>A-0700</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>100</grade>
+		<notes>***ERROR***  Grade for Type 1 should be a *</notes>
+	</transaction>	
+	<transaction>
+		<program>VT</program>
+		<student_no>88888889</student_no>
+		<course_no>A-0700</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>100</grade>
+		<notes>***ERROR***  Grade for Type 1 should be *</notes>
+	</transaction>
+	<transaction>
+		<program>VT</program>
+		<student_no>88888886</student_no>
+		<course_no>*</course_no>
+		<registration_no>2013</registration_no>
+		<type>2</type>
+		<grade>60</grade>
+		<notes>Good grade update</notes>
+	</transaction>
+	<transaction>
+		<program>VT</program>
+		<student_no>88888886</student_no>
+		<course_no>A-2998</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good Registration</notes>
+	</transaction>
+	<transaction>
+		<program>VT</program>
+		<student_no>88888886</student_no>
+		<course_no>A-2999</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good Registration</notes>
+	</transaction>
+	<transaction>
+		<program>VT</program>
+		<student_no>88888889</student_no>
+		<course_no>G-299994</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good registration</notes>
+	</transaction>
+	<transaction>
+		<program>VT</program>
+		<student_no>88888889</student_no>
+		<course_no>G-299995</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good registration</notes>
+	</transaction>
+	<transaction>
+		<program>VT</program>
+		<student_no>88888889</student_no>
+		<course_no>D-12345</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>***ERROR*** Course does not exist</notes>
+	</transaction>
+</student_update>
